@@ -1,3 +1,5 @@
+Forked from a local copy of [SobanVuex/php-newrelic](https://github.com/SobanVuex/php-newrelic), which seems to have been pulled from github. This fork is intended to be a drop-in replacement for the original package.
+
 # PHP NewRelic
 
 [![Source Code](http://img.shields.io/badge/source-SobanVuex/php--newrelic-blue.svg?style=flat-square)](https://github.com/SobanVuex/php-newrelic)
